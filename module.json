@@ -1,0 +1,35 @@
+{
+  "id": "marked-bloodline",
+  "title": "Marked Bloodline",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "pocketlint60",
+      "email": "pocketlint60@gmail.com",
+      "discord": "pocketlint60",
+      "url": "https://ko-fi.com/pocketlint60",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "MarkedBloodline",
+      "label": "MarkedBloodline",
+      "path": "packs/MarkedBloodline",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}
