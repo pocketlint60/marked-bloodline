@@ -31,5 +31,5 @@
     }
   ],
   "description": ""
-  "manifest": https://raw.githubusercontent.com/pocketlint60/marked-bloodline/refs/heads/main/module.json
+  "manifest": "https://raw.githubusercontent.com/pocketlint60/marked-bloodline/refs/heads/main/module.json"
 }
